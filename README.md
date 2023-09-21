@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello, world! 👋
+
+## About Me
+Welcome to the GitHub profile of Producer.P @ The Pseudoartist Clan. 
+I am currently a student at Central Queensland University student studying Bachelor of Information Technology. 
+
+I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, and upload the songs on [YouTube](https://www.youtube.com/channel/UCarEOkNB1sqPxUCr8jWRTDA), [Spotify](https://open.spotify.com/artist/44pVO0Kaf8E99BoUaOVECl), [Apple Music](https://music.apple.com/us/artist/producer-p/1436901294) or [Bandcamp](https://pseudoartist.bandcamp.com/). 
+
 
 <!--
 **Playstationmaster/Playstationmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
