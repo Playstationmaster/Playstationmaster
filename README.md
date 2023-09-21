@@ -35,7 +35,7 @@ I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, a
 
 ```
 🤔 I’m looking for help with...
-- [MikuWeather Repository](https://github.com/Playstationmaster/MikuWeatherSourceCode) - Background Location Tracking for displaying weather info on the app widget
+- MikuWeather Repository - Background Location Tracking for displaying weather info on the app widget
 - Job Occupation after graduation
 - Visa application...?
 ```
