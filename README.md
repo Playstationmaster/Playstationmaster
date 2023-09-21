@@ -7,6 +7,11 @@ I am currently a student at Central Queensland University studying Bachelor of I
 
 I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, and upload the songs on [YouTube](https://www.youtube.com/channel/UCarEOkNB1sqPxUCr8jWRTDA), [Spotify](https://open.spotify.com/artist/44pVO0Kaf8E99BoUaOVECl), [Apple Music](https://music.apple.com/us/artist/producer-p/1436901294) or [Bandcamp](https://pseudoartist.bandcamp.com/). 
 
+I currently own a website [The Pseudoartist Clan](https://pseudoartist.com)
+
+### Contact Details
+E-mail: producer.p@pseudoartist.com for business inquiries only
+
 ```
 ❤️ I am interested in...
 
@@ -21,6 +26,7 @@ I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, a
 
 ```
 💬 The languages that I can use are...
+
 (Human Language)
 - English (Intermediate)
 - Korean|한국어 (Native)
@@ -35,7 +41,8 @@ I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, a
 
 ```
 🤔 I’m looking for help with...
-- MikuWeather Repository - Background Location Tracking for displaying weather info on the app widget
+
+- MikuWeather Repository | Background Location Tracking for displaying weather info on the app widget
 - Job Occupation after graduation
 - Visa application...?
 ```
