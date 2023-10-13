@@ -7,8 +7,6 @@ I am currently a student at Central Queensland University studying Bachelor of I
 
 I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, and upload the songs on [YouTube](https://www.youtube.com/channel/UCarEOkNB1sqPxUCr8jWRTDA), [Spotify](https://open.spotify.com/artist/44pVO0Kaf8E99BoUaOVECl), [Apple Music](https://music.apple.com/us/artist/producer-p/1436901294) or [Bandcamp](https://pseudoartist.bandcamp.com/). 
 
-I currently own a website [The Pseudoartist Clan](https://pseudoartist.com)
-
 ### Contact Details
 E-mail: producer.p@pseudoartist.com for business inquiries only
 
