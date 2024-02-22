@@ -7,9 +7,13 @@ I am currently a student at Central Queensland University studying Bachelor of I
 
 I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, and upload the songs on [YouTube](https://www.youtube.com/channel/UCarEOkNB1sqPxUCr8jWRTDA), [Spotify](https://open.spotify.com/artist/44pVO0Kaf8E99BoUaOVECl), [Apple Music](https://music.apple.com/us/artist/producer-p/1436901294) or [Bandcamp](https://pseudoartist.bandcamp.com/). 
 
-[BAEKJOON Online Judge Profile](https://www.acmicpc.net/user/psmaster0904)
-
-[X/Twitter account](https://twitter.com/maxin0904)
+### Online Profile
+* [YouTube Channel](https://www.youtube.com/channel/UCarEOkNB1sqPxUCr8jWRTDA)
+* [X/Twitter account](https://twitter.com/maxin0904)
+* [Spotify Artist Page](https://open.spotify.com/artist/44pVO0Kaf8E99BoUaOVECl)
+* [Apple Music Artist Page](https://music.apple.com/us/artist/producer-p/1436901294)
+* [Bandcamp Artist Page](https://pseudoartist.bandcamp.com/)
+* [BAEKJOON Online Judge Profile](https://www.acmicpc.net/user/psmaster0904)
 
 ### Contact Details
 E-mail: producer.p@pseudoartist.com for business inquiries only
