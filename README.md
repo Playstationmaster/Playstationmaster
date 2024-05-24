@@ -3,7 +3,7 @@
 ## Hello, world! 👋
 ### About Me
 Welcome to the GitHub profile of Producer.P @ The Pseudoartist Clan. 
-I am currently a student at Central Queensland University studying Bachelor of Information Technology. 
+I have graduated from Central Queensland University with a Bachelor of Information Technology degree. 
 
 I used to make songs with Vocaloid (Especially Hatsune Miku) and Ableton Live, and upload the songs on [YouTube](https://www.youtube.com/channel/UCarEOkNB1sqPxUCr8jWRTDA), [Spotify](https://open.spotify.com/artist/44pVO0Kaf8E99BoUaOVECl), [Apple Music](https://music.apple.com/us/artist/producer-p/1436901294) or [Bandcamp](https://pseudoartist.bandcamp.com/). 
 
