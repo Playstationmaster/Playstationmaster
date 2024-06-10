@@ -49,6 +49,5 @@ E-mail: producer.p@pseudoartist.com for business inquiries only
 🤔 I’m looking for help with...
 
 - MikuWeather Repository | Background Location Tracking for displaying weather info on the app widget
-- Job Occupation after graduation
-- Visa application...?
+- Job Occupation
 ```
